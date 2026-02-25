@@ -79,7 +79,7 @@ When set to **Automatic**:
 - Added semi-automatic mode
 - Improved operational flexibility
 - Better control logic
-
+Previous Version: [IAC-10 Water Level Controller](https://github.com/gabrielx65/iac-10-water-level-controller)
 ---
 
 ## 👤 Author
