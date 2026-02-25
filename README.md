@@ -1,5 +1,7 @@
 # IAC-20 Water Level Controller (Enhanced Multi-Pump Version)
 
+![IAC-20 Panel](images/Front-Panel.jpg)
+
 Advanced water level controller designed to regulate overhead tank systems with multi-mode and dual-pump operation.
 
 ---
